@@ -1,0 +1,27 @@
+2025-03-21 16:38:38.733 | ERROR    | __main__:<module>:10 - Failed to fetch data from Yahoo Finance.
+2025-03-21 16:38:39.257 | INFO     | __main__:<module>:15 - Scraping started for stock market data.
+2025-03-21 16:38:39.257 | INFO     | __main__:<module>:19 - Scraped success !! Link: https://www.moneycontrol.com/mutual-funds/nav/hdfc-focused-30-fund-direct-plan-growth/MHD1150 and status code: 200
+2025-03-21 16:39:09.003 | ERROR    | __main__:<module>:10 - Failed to fetch data from Yahoo Finance.
+2025-03-21 16:39:09.591 | INFO     | __main__:<module>:15 - Scraping started for stock market data.
+2025-03-21 16:39:09.591 | INFO     | __main__:<module>:19 - Scraped success !! Link: https://www.moneycontrol.com/mutual-funds/nav/hdfc-focused-30-fund-direct-plan-growth/MHD1150 and status code: 200
+2025-03-21 16:40:01.057 | ERROR    | __main__:<module>:10 - Failed to fetch data from Yahoo Finance.
+2025-03-21 16:40:01.577 | INFO     | __main__:<module>:15 - Scraping started for stock market data.
+2025-03-21 16:40:01.577 | INFO     | __main__:<module>:19 - Scraped success !! Link: https://www.moneycontrol.com/mutual-funds/nav/hdfc-focused-30-fund-direct-plan-growth/MHD1150 and status code: 200
+2025-03-21 16:40:31.160 | ERROR    | __main__:<module>:10 - Failed to fetch data from Yahoo Finance.
+2025-03-21 16:40:31.659 | INFO     | __main__:<module>:15 - Scraping started for stock market data.
+2025-03-21 16:40:31.659 | INFO     | __main__:<module>:19 - Scraped success !! Link: https://www.moneycontrol.com/mutual-funds/nav/hdfc-focused-30-fund-direct-plan-growth/MHD1150 and status code: 200
+2025-03-21 16:42:18.597 | ERROR    | __main__:<module>:10 - Failed to fetch data from Yahoo Finance.
+2025-03-21 16:42:19.143 | INFO     | __main__:<module>:15 - Scraping started for stock market data.
+2025-03-21 16:42:19.144 | INFO     | __main__:<module>:19 - Scraped success !! Link: https://www.moneycontrol.com/mutual-funds/nav/hdfc-focused-30-fund-direct-plan-growth/MHD1150 and status code: 200
+2025-03-21 16:42:43.599 | ERROR    | __main__:<module>:10 - Failed to fetch data from Yahoo Finance.
+2025-03-21 16:42:44.243 | INFO     | __main__:<module>:15 - Scraping started for stock market data.
+2025-03-21 16:42:44.243 | INFO     | __main__:<module>:19 - Scraped success !! Link: https://www.moneycontrol.com/mutual-funds/nav/hdfc-focused-30-fund-direct-plan-growth/MHD1150 and status code: 200
+2025-03-21 16:43:17.549 | INFO     | __main__:<module>:15 - Scraping started for stock market data.
+2025-03-21 16:43:17.549 | INFO     | __main__:<module>:19 - Scraped success !! Link: https://www.moneycontrol.com/mutual-funds/nav/hdfc-focused-30-fund-direct-plan-growth/MHD1150 and status code: 200
+2025-03-21 16:51:10.794 | INFO     | __main__:<module>:15 - Scraping started for stock market data.
+2025-03-21 16:51:10.795 | INFO     | __main__:<module>:19 - Scraped success !! Link: https://www.moneycontrol.com/mutual-funds/nav/hdfc-focused-30-fund-direct-plan-growth/MHD1150 and status code: 200
+2025-03-24 17:21:29.305 | INFO     | __main__:<module>:28 - Markdown file embedded & stored in ChromaDB ✅
+2025-03-24 17:27:28.856 | INFO     | __main__:<module>:28 - Markdown file embedded & stored in ChromaDB ✅
+2025-03-25 12:32:59.930 | INFO     | __main__:<module>:1 - data added succesfully
+2025-03-25 12:53:09.748 | INFO     | __main__:<module>:8 - data added succesfully
+2025-03-25 12:56:05.979 | INFO     | __main__:<module>:8 - data added succesfully
